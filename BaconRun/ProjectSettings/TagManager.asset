@@ -3,7 +3,9 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Enemy
+  - Playerhand
   layers:
   - Default
   - TransparentFX
@@ -11,22 +13,22 @@ TagManager:
   - 
   - Water
   - UI
-  - WhatIsGround
-  - WhatIsWall
+  - whatIsPlayer
+  - 
+  - 
+  - whatIsWall
+  - whatIsGround
+  - 
+  - 
+  - 
+  - whatIsKnife
   - 
   - 
   - 
   - 
   - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
+  - postProcessing
+  - dontRender
   - 
   - 
   - 
